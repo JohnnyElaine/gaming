@@ -29,10 +29,10 @@
 - **Party-Link:** If a Pokémon is placed in the Party, its linked-partner on the other player’s team must be placed in the Party as well.
 
 ## Level Caps for Major Fights (Pokémon X/Y)
-
+[serebii.net](https://www.serebii.net/xy/gyms.shtml)/[pokemondb](https://pokemondb.net/x-y/gymleaders-elitefour)
 | Fight | Location | Level Cap |
 |-------|----------|------------|
-| Viola (Bug Gym) | Santalune City | 12 |
+| [Viola (Bug Gym)] | Santalune City | 12 |
 | Grant (Rock Gym) | Cyllage City | 25 |
 | Korrina (Fighting Gym) | Shalour City | 32 |
 | Ramos (Grass Gym) | Coumarine City | 34 |
